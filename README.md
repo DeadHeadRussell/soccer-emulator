@@ -3,6 +3,12 @@ Soccer Emulator
 
 Text based emulation of soccer games.  Teams are created in text files with a set of stats which are updated over time based on the games played.
 
+Building
+===============
+
+This project requires MinGW to build and run. Once MinGW is setup, simply run `make` in the root folder of the project. This will produce the executable file in the same folder.
+
+Running
 ===============
 
 To create a team file, use the following format:
